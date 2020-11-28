@@ -19,6 +19,11 @@ updates:
     directory: "/src/common/ManagedTelemetry/Telemetry"
     schedule:
       interval: "daily"
+  
+  - package-ecosystem: "npm"
+    directory: "/src/settings-web"
+    schedule:
+      interval: "daily"
       
   - package-ecosystem: "nuget"
     directory: "/src/common/ManagedCommon"
