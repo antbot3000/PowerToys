@@ -125,7 +125,7 @@
       <Version>1.11.26</Version>
     </PackageReference>
     <PackageReference Include="Markdig.Signed">
-      <Version>0.22.0</Version>
+      <Version>0.22.1</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers">
       <Version>3.3.0</Version>
