@@ -274,7 +274,7 @@
       <Version>6.6.30107</Version>
     </PackageReference>
     <PackageReference Include="System.Text.Json">
-      <Version>4.7.2</Version>
+      <Version>5.0.2</Version>
     </PackageReference>
     <PackageReference Include="StyleCop.Analyzers">
       <Version>1.1.118</Version>
