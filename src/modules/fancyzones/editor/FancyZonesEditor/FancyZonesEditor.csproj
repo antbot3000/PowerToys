@@ -268,7 +268,7 @@
       <Version>2.3.2</Version>
     </PackageReference>
     <PackageReference Include="System.IO.Abstractions">
-      <Version>12.2.5</Version>
+      <Version>13.2.29</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.DpiAwareness">
       <Version>6.6.30107</Version>
