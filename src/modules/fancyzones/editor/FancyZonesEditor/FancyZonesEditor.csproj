@@ -271,7 +271,7 @@
       <Version>12.2.5</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.DpiAwareness">
-      <Version>6.6.30107</Version>
+      <Version>7.0.31410</Version>
     </PackageReference>
     <PackageReference Include="System.Text.Json">
       <Version>4.7.2</Version>
